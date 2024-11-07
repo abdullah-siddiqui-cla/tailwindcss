@@ -5,6 +5,8 @@ Create a simple, responsive profile card using Tailwind CSS. The card should dis
 
 See `preview-desktop.png` and `preview-mobile.png` for a reference.
 
+For adding an image in the card, you can use `https://via.placeholder.com/100` link.
+
 ## Requirements
 
 ### 1. Set up Tailwind
