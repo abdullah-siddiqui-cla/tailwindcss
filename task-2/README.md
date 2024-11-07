@@ -7,6 +7,8 @@ Create a responsive pricing card with Tailwind CSS that displays the features an
 ## Reference
 See https://github.com/user-attachments/assets/ee20cd4c-49ff-4a97-8a6e-d1107de7950a
 
+See `preview.mov` for a visual reference.
+
 ## Requirements:
 ### 1. Create the Card Layout
 Use a div container with a maximum width (max-w-md) and center it on the page.
