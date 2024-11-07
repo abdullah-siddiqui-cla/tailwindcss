@@ -2,7 +2,7 @@
 ## Goal
 Create a responsive image gallery using Tailwind CSS. The gallery should display images in a grid layout, with the number of columns adjusting based on the screen size.
 
-See `preview.mov` for the visual reference.
+See `preview-desktop.png` and `preview-mobile.png` for a reference.
 
 ## Requirements:
 ### 1. Set Up the Grid Layout
