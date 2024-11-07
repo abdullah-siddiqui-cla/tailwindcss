@@ -4,7 +4,8 @@ Build a Responsive Pricing Card with Hover Effects
 ## Goal
 Create a responsive pricing card with Tailwind CSS that displays the features and price of a service or product. The card should have hover effects that emphasize it as an active selection.
 
-See `preview.mov` for the visual reference.
+## Reference
+See https://github.com/user-attachments/assets/ee20cd4c-49ff-4a97-8a6e-d1107de7950a
 
 ## Requirements:
 ### 1. Create the Card Layout
